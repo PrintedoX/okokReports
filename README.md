@@ -1,3 +1,5 @@
+![](https://img001.prntscr.com/file/img001/pi13ZhvDQYaY6tAhXLZZzw.png)
+
 Hi, thank you for buying my script! (LOL)
 
 1. Edit config.lua to your liking.
