@@ -46,7 +46,7 @@ How to add new colors:
 To know the content code navigate to https://fontawesome.com/v5.15/icons?d=gallery&p=2, select an icon and copy it's code.
 
 2. Open scripts.js and add the following to the line 76.
-
+```
 else if (event.data.type == 'type') {
     $(`.title-${number}`).html(event.data.title).css({
         "font-size": "16px",
@@ -56,7 +56,7 @@ else if (event.data.type == 'type') {
     $(`.wrapper-${number}`).addClass('type type-border')
     sound.play();
 }
-
+```
 Don't forget to change the type to the same name as you choose for "example".
 
 If you need help contact me on discord: https://discord.gg/Knw8UyqxbQ
