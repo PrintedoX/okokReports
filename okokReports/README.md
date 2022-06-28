@@ -1,4 +1,4 @@
-Hi, thank you for buying my script!
+Hi, thank you for buying my script! (LOL)
 
 1. Edit config.lua to your liking.
 
